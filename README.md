@@ -2,7 +2,7 @@
 
 This repository contains Jupyter notebooks demonstrating the use of the JWST calibration pipeline (build 7) for MIRI data within python. 
 
-Build 7 of the JWST calibration pipeline can be installed into a Anaconda environment as follows:
+Build 7 of the JWST calibration pipeline can be installed into an Anaconda environment as follows:
 
 conda create -n jwstb7 --file <URL>
 
